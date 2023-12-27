@@ -1,0 +1,29 @@
+body {
+    background-color: #f8d7da; /* Romantic background color */
+    color: #721c24; /* Romantic text color */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #b80f0a; /* Romantic heading color */
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.video-container {
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
